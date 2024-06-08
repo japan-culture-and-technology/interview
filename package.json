@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "client": "npm run dev -w client",
+    "server": "npm run dev -w server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
